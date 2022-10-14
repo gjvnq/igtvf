@@ -1,0 +1,403 @@
+%IGTVF
+[SRC_TEXT]
+# Constituição da República Federativa do Brasil de 1988
+
+## PREÂMBULO
+
+Nós, representantes do povo brasileiro, reunidos em Assembléia Nacional Constituinte para instituir um Estado Democrático, destinado a assegurar o exercício dos direitos sociais e individuais, a liberdade, a segurança, o bem-estar, o desenvolvimento, a igualdade e a justiça como valores supremos de uma sociedade fraterna, pluralista e sem preconceitos, fundada na harmonia social e comprometida, na ordem interna e internacional, com a solução pacífica das controvérsias, promulgamos, sob a proteção de Deus, a seguinte CONSTITUIÇÃO DA REPÚBLICA FEDERATIVA DO BRASIL.
+
+## TÍTULO I - Dos Princípios Fundamentais
+
+Art. 1º A República Federativa do Brasil, formada pela união indissolúvel dos Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem como fundamentos:
+I - a soberania;
+II - a cidadania
+III - a dignidade da pessoa humana;
+IV - os valores sociais do trabalho e da livre iniciativa;
+V - o pluralismo político.
+Parágrafo único. Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição.
+
+Art. 2º São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.
+
+Art. 3º Constituem objetivos fundamentais da República Federativa do Brasil:
+I - construir uma sociedade livre, justa e solidária;
+II - garantir o desenvolvimento nacional;
+III - erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais;
+IV - promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.
+
+Art. 4º A República Federativa do Brasil rege-se nas suas relações internacionais pelos seguintes princípios:
+I - independência nacional;
+II - prevalência dos direitos humanos;
+III - autodeterminação dos povos;
+IV - não-intervenção;
+V - igualdade entre os Estados;
+VI - defesa da paz;
+VII - solução pacífica dos conflitos;
+VIII - repúdio ao terrorismo e ao racismo;
+IX - cooperação entre os povos para o progresso da humanidade;
+X - concessão de asilo político.
+Parágrafo único. A República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações.
+[/SRC_TEXT]
+
+[DST_TEXT]
+# Constitution of the Federative Republic of Brazil of 1988
+
+## PREAMBLE
+
+We, representative of the Brazilian people, assembled into the National Constituent Assembly to institute a Democratic State, destined to assure the exercise of the social and individual rights, freedom, security, well-being, development, equality, and justice as supreme values of a fraternal, plural and prejudice-free society, founded on social harmony and committed, domestically and internationally, to the peaceful solution of controversies, promulgate, under the protection of Gof, the following CONSTITUTION OF THE REPÚBLICA FEDERATIVA DO BRASIL.
+
+## TITLE I - Of the Fundamental Principles
+
+Article 1st - The Federative Republic of Brazil, formed by the indissoluble union of the States, and Municipalities and the Federal District, is constituted into Democratic State of Law and has as [its] fundaments:
+I - sovereignty;
+II - citizenship;
+III - the dignity of the human person;
+IV - the social values of work and the free initiative;
+V - political pluralism.
+Sole paragraph - All power emanates from the people, who exert it through their elective representatives or directly, according to the term of this Constitution.
+
+Article 2nd - The Legislative, the Executive and the Judiciary, independent and harmonious among each other, are the Branches of Power of the Union.
+
+Article 3rd - The following are fundamental objectives of the Federative Republic of Brazil:
+I - build a free, fair and solidary society;
+II - guarantee the national development;
+III - eradicate poverty and the marginalization and reduce the social and regional inequalities;s
+IV - promote the good of everyone, without prejudice of origin, race, sex, color, age, or any other forms of discrimination.
+
+Article 4th - The Federative Republic of Brazil governs itself by the following principles in it's international relations:
+I -  national independence;
+II - prevalence of human rights;
+III - self-determination of the peoples;
+IV - non-intervention;
+V - equality among the States;
+VI - defense of the peace;
+VII - peaceful solution of conflicts;
+VIII - repudiation of terrorism and racism;
+IX - cooperation among the peoples for the progress of humanity;
+X - concession of political asylum;
+Sole paragraph - The Federative Republic of Brazil shall seek the economic, political, social and cultural integration of the peoples of Latin America, aiming the formation of Latin-American community of nations.
+[/DST_TEXT]
+
+[INTERGLOSS]
+Constituição    | constitution        | N.F.SG
+da              | of - the            | PREP - ART.F.SG
+República       | republic            | N.F.SG
+Federativa      | federative          | ADJ.F.SG
+do              | of - the            | PREP - ART.M.SG
+Brasil          | Brazil              | N.M.SG
+de              | of                  | PREP
+                |                     |
+PREÂMBULO       | preamble            | N.M.SG
+                |                     |
+Nós             | we                  | PN
+representantes  | representatives     | N.M.PL
+do              | of - the            | PREP - ART.M.SG
+povo            | people              | N.M.SG
+brasileiro      | Brazilian           | ADJ.M.SG
+reunidos        | assembled           | PST.1PL
+em              | in                  | PREP
+Assembléia      | assembly            | N.F.SG
+Nacional        | national            | ADJ.F.SG
+Constituinte    | constituent         | ADJ.SG
+para            | to                  | PREP
+instituir       | institute           | INF
+um              | a                   | ART.M.SG
+Estado          | state               | N.M.SG
+Democrático     | democratic          | ADJ.M.SG
+destinado       | destined            | PST.3SG
+a               | the                 | ART.F.SG
+assegurar       | to assure           | INF
+o               | the                 | ART.M.SG
+exercício       | exercise            | N.M.SG
+dos             | of - the            | PREP - ART.M.PL
+direitos        | rights              | N.M.PL
+sociais         | social              | ADJ.PL
+e               | and                 | CONJ
+individuais     | individual          | ADJ.PL
+a               | the                 | ART.F.SG
+liberdade       | freedom             | N.F.SG
+a               | the                 | ART.F.SG
+segurança       | security            | N.F.SG
+o               | the                 | ART.M.SG
+bem-estar       | well-being          | N.M.SG
+o               | the                 | ART.M.SG
+desenvolvimento | development         | N.M.SG
+a               | the                 | ART.F.SG
+igualdade       | equality            | N.F.SG
+e               | and                 | CONJ
+a               | the                 | ART.F.SG
+justiça         | justice             | N.F.SG
+como            | as                  | PREP
+valores         | values              | N.M.PL
+supremos        | supreme             | ADJ.M.PL
+de              | of                  | PREP
+uma             | a                   | ART.F.SG
+sociedade       | society             | N.F.SG
+fraterna        | fraternal           | ADJ.F.SG
+pluralista      | pluralist           | ADJ.F.SG
+e               | and                 | CONJ
+sem             | without             | PREP
+preconceitos    | prejudices          | N.M.PL
+fundada         | founded             | PST.3SG
+na              | in - the            | PREP - ART.F.SG
+harmonia        | harmony             | N.F.SG
+social          | social              | ADJ.SG
+e               | and                 | CONJ
+comprometida    | committed           | VN.ADJ.F.SG
+na              | in - the            | PREP - ART.F.SG
+ordem           | order               | N.M.SG
+interna         | internal            | ADJ.F.SG
+e               | and                 | CONJ
+internacional   | international       | ADJ.SG
+com             | with                | PREP
+a               | the                 | ART.F.SG
+solução         | solution            | N.F.SG
+pacífica        | peaceful            | ADJ.F.SG
+das             | of - the            | PREP - ART.F.SG
+controvérsias   | controversies       | N.F.PL
+promulgamos     | promulgate          | PRES.1PL
+sob             | under               | PREP
+a               | the                 | ART.F.SG
+proteção        | protection          | ART.F.SG
+de              | of                  | PREP
+Deus            | God                 | PN.M.SG
+a               | the                 | ART.F.SG
+seguinte        | following           | N.F.SG
+CONSTITUIÇÃO    | constitution        | N.F.SG
+DA              | of - the            | PREP - ART.F.SG
+REPÚBLICA       | republic            | N.F.SG
+FEDERATIVA      | federative          | ADJ.F.SG
+DO              | of - the            | PREP - ART.M.SG
+BRASIL          | Brazil              | N.M.SG
+                |                     |
+TÍTULO          | title               | N.M.SG
+Dos             | of - the            | PREP - ART.M.PL
+Princípios      | principles          | N.M.PL
+Fundamentais    | fundamental         | ADJ.PL
+                |                     |
+Art             | article             | N.M.SG
+A               | the                 | ART.F.SG
+República       | republic            | N.F.SG
+Federativa      | federative          | ADJ.F.SG
+do              | of - the            | PREP - ART.M.SG
+Brasil          | Brazil              | N.M.SG
+formada         | formed              | VN.F.SG
+pela            | by - the            | PREP - ART.F.SG
+união           | union               | N.F.SG
+indissolúvel    | indissoluble        | ADJ.SG
+dos             | of - the            | PREP - ART.M.PL
+Estados         | states              | N.M.PL
+e               | and                 | CONJ
+Municípios      | municipalities      | N.M.PL
+e               | and                 | CONJ
+do              | of - the            | PREP - ART.M.SG
+Distrito        | district            | N.M.SG
+Federal         | federal             | ADJ.SG
+constitui-se    | constitutes - itself| PRES.3SG - PRO
+em              | in                  | PREP
+Estado          | state               | N.M.SG
+Democrático     | democratic          | ADJ.M.SG
+de              | of                  | PREP
+Direito         | law                 | N.M.SG
+e               | and                 | CONJ
+tem             | has                 | PRES-2SG
+como            | as                  | PREP
+fundamentos     | fundaments          | N.M.PL
+a               | the                 | ART.F.SG
+soberania       | sovereignty         | N.F.SG
+a               | the                 | ART.F.SG
+cidadania       | citizenship         | N.F.SG
+a               | the                 | ART.F.SG
+dignidade       | dignity             | N.F.SG
+da              | of - the            | PREP - ART.F.SG
+pessoa          | person              | N.F.SG
+humana          | human               | ADJ.F.SG
+os              | the                 | ART.M.PL
+valores         | values              | N.PL.M
+sociais         | social              | ADJ.PL
+do              | of - the            | PREP - ART.M.SG
+trabalho        | work                | N.SG.M
+e               | and                 | CONJ
+da              | of - the            | PREP - ART.F.SG
+livre           | free                | ADJ.SG
+iniciativa      | initiative          | N.F.SG
+o               | the                 | ART.M.SG
+pluralismo      | pluralism           | N.M.SG
+político        | political           | ADJ.M.SG
+Parágrafo       | paragraph           | N.M.SG
+único           | sole                | ADJ.M.SG
+Todo            | all                 | DET.M.SG
+o               | the                 | ART.M.SG
+poder           | power               | N.M.SG
+emana           | emantes             | PRES.3SG
+do              | from - the          | PREP - ART.M.SG
+povo            | people              | N.M.SG
+que             | who                 | PREP
+o               | the                 | ART.M.SG
+exerce          | exercises           | PRES.3SG
+por             | by/through          | PREP
+meio            | means               | N.M.SG
+de              | of                  | PREP
+representantes  | representatives     | N.M.PL
+eleitos         | elected             | ADJ.M.PL
+ou              | or                  | CONJ
+diretamente     | directly            | ADV
+nos             | in - the            | PREP - ART.M.PL
+termos          | terms               | N.M.PL
+desta           | of - this           | PREP - DET.M.SG
+Constituição    | constitution        | N.F.SG
+                |                     |
+Art             | article             | N.M.SG
+São             | are                 | PRES.3PL
+Poderes         | powers              | N.M.PL
+da              | of - the            | PREP - ART.F.SG
+União           | Union               | PN.F.SG
+independentes   | independent         | ADJ.PL
+e               | and                 | CONJ
+harmônicos      | harmonious          | ADJ.M.PL
+entre           | among               | PREP
+si              | themselves          | PRO
+o               | the                 | ART.M.SG
+Legislativo     | Legislative         | PN.M.SG
+o               | the                 | ART.M.SG
+Executivo       | Executive           | PN.M.SG
+e               | and                 | CONJ
+o               | the                 | ART.M.SG
+Judiciário      | Judiciary           | PN.M.SG
+                |                     |
+Art             | article             | N.M.SG
+Constituem      | constitute          | PRES.3PL
+objetivos       | objetives           | N.M.PL
+fundamentais    | fundamental         | ADJ.PL
+da              | of - the            | PREP - ART.F.SG
+República       | republic            | N.F.SG
+Federativa      | federative          | ADJ.F.SG
+do              | of - the            | PREP - ART.M.SG
+Brasil          | Brazil              | PN.M.SG
+construir       | build               | INF
+uma             | a                   | ART.F.SG
+sociedade       | society             | N.F.SG
+livre           | free                | ADJ.SG
+justa           | fair                | ADJ.F.SG
+e               | and                 | CONJ
+solidária       | solidary            | ADJ.F.SG
+garantir        | guarantee           | INF
+o               | the                 | ART.M.SG
+desenvolvimento | development         | N.M.SG
+nacional        | national            | ADJ.F.SG
+erradicar       | eradicate           | INF
+a               | the                 | ART.F.SG
+pobreza         | poverty             | N.F.SG
+e               | and                 | CONJ
+a               | the                 | ART.F.SG
+marginalização  | marginalization     | N.F.SG
+e               | and                 | CONJ
+reduzir         | reduce              | INF
+as              | the                 | ART.F.PL
+desigualdades   | inequalities        | N.F.PL
+sociais         | social              | ADJ.F.PL
+e               | and                 | CONJ
+regionais       | regional            | ADJ.F.SG
+promover        | promote             | INF
+o               | the                 | ART.M.SG
+bem             | good                | N.M.SG
+de              | of                  | PREP
+todos           | all                 | PRO
+sem             | without             | PREP
+preconceitos    | prejudices          | N.M.PL
+de              | of                  | PREP
+origem          | origin              | N.F.SG
+raça            | race                | N.F.SG
+sexo            | sex                 | N.M.SG
+cor             | color               | N.F.SG
+idade           | age                 | N.F.SG
+e               | and                 | CONJ
+quaisquer       | any                 | DET
+outras          | other               | ADJ.F.PL
+formas          | forms               | N.F.PL
+de              | of                  | PREP
+discriminação   | discrimination      | N.F.SG
+                |                     |
+Art             | article             | N.M.SG
+A               | the                 | ART.F.SG
+República       | republic            | N.F.SG
+Federativa      | federative          | ADJ.F.SG
+do              | of - the            | PREP - ART.M.SG
+Brasil          | Brazil              | N.M.SG
+rege-se         | rules - itself      | PRES.3SG - PRO
+nas             | in - the            | PREP - ART.F.PL
+suas            | its                 | PRO.F.PL
+relações        | relations           | N.F.PL
+internacionais  | internacional       | ADJ.F.PL
+pelos           | by - the            | PREP - ART.M.PL
+seguintes       | following           | ADJ.M.PL
+princípios      | principles          | N.M.PL
+independência   | independence        | N.F.SG
+nacional        | national            | ADJ.F.SG
+prevalência     | prevalence          | N.F.SG
+dos             | of - the            | PREP - ART.M.PL
+direitos        | rights              | N.M.PL
+humanos         | human               | ADJ.M.PL
+autodeterminação| self-determination  | N.F.SG
+dos             | of - the            | PREP - ART.M.PL
+povos           | peoples             | N.M.PL
+não-intervenção | non-intervention    | N.F.SG
+igualdade       | equality            | N.F.SG
+entre           | among               | PREP
+os              | the                 | ART.M.PL
+Estados         | states              | N.M.PL
+defesa          | defense             | N.F.SG
+da              | of - the            | PREP - ART.F.SG
+paz             | peace               | N.F.SG
+solução         | solution            | N.F.SG
+pacífica        | peaceful            | ADJ.F.SG
+dos             | of - the            | PREP - ART.M.PL
+conflitos       | conflicts           | N.M.SG
+repúdio         | repudiation         | N.M.SG
+ao              | to - the            | PREP - ART.M.SG
+terrorismo      | terrorism           | ART.M
+e               | and                 | CONJ
+ao              | to - the            | PREP - ART.M.SG
+racismo         | racism              | N.M.SG
+cooperação      | cooperation         | N.F.SG
+entre           | among               | PREP
+os              | the                 | ART.M.PL
+povos           | peoples             | N.M.PL
+para            | for                 | PREP
+o               | the                 | ART.M.SG
+progresso       | progress            | N.M.SG
+da              | of - the            | PREP - ART.F.SG
+humanidade      | humanity            | N.F.SG
+concessão       | concession          | N.F.SG
+de              | of                  | PREP
+asilo           | asylum              | N.M.SG
+político        | political           | ADJ.M.SG
+Parágrafo       | paragraph           | N.M.SG
+único           | sole                | ADJ.M.SG
+A               | the                 | ART.F.SG
+República       | republic            | N.F.SG
+Federativa      | federative          | ADJ.F.SG
+do              | of - the            | PREP - ART.M.SG
+Brasil          | Brazil              | N.M.SG
+buscará         | will seek           | FUT.3SG
+a               | the                 | ART.F.SG
+integração      | integration         | N.F.SG
+econômica       | economic            | ADJ.F.SG
+política        | political           | ADJ.F.SG
+social          | social              | ADJ.SG
+e               | and                 | CONJ
+cultural        | cultural            | ADJ.F.SG
+dos             | of - the            | PREP - ART.M.PL
+povos           | peoples             | N.M.PL
+da              | of - the            | PREP - ART.F.SG
+América         | America             | PN.F.SG
+Latina          | Latin               | ADJ.F.SG
+visando         | aiming              | GND
+à               | to - the            | PREP - ART.F.SG
+formação        | formation           | N.F.SG
+de              | of                  | PREP
+uma             | a                   | ART.F.SG
+comunidade      | community           | N.F.SG
+latino-americana| Latin-American      | ADJ.F.SG
+de              | of                  | PREP
+nações          | nations             | N.F.PL
+[/INTERGLOSS]
